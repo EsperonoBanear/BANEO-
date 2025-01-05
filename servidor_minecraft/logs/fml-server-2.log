@@ -1,0 +1,750 @@
+[16:30:49] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[16:30:50] [main/INFO] [FML/]: Forge Mod Loader version 11.15.1.2318 for Minecraft 1.8.9 loading
+[16:30:50] [main/INFO] [FML/]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[16:30:50] [main/DEBUG] [FML/]: Java classpath at launch is /workspaces/BANEO-/servidor_minecraft/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar
+[16:30:50] [main/DEBUG] [FML/]: Java library path at launch is /tmp/_MEIzMv0uY:/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib
+[16:30:50] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[16:30:50] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[16:30:50] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[16:30:50] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[16:30:50] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[16:30:50] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[16:30:50] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[16:30:50] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to /workspaces/BANEO-/servidor_minecraft/.
+[16:30:50] [main/DEBUG] [FML/]: Discovering coremods
+[16:30:50] [main/DEBUG] [FML/]: Examining for coremod candidacy ArchitectureCraft-1.7.1-mc1.8.9.jar
+[16:30:50] [main/DEBUG] [FML/]: Not found coremod data in ArchitectureCraft-1.7.1-mc1.8.9.jar
+[16:30:50] [main/DEBUG] [FML/]: Examining for coremod candidacy armorplus-1.20.1-20.0.2 (1).jar
+[16:30:50] [main/DEBUG] [FML/]: Not found coremod data in armorplus-1.20.1-20.0.2 (1).jar
+[16:30:50] [main/DEBUG] [FML/]: Examining for coremod candidacy armorplus-1.20.1-20.0.2.jar
+[16:30:50] [main/DEBUG] [FML/]: Not found coremod data in armorplus-1.20.1-20.0.2.jar
+[16:30:50] [main/DEBUG] [FML/]: Examining for coremod candidacy BetterFoliage-2.7.1-Forge-1.16.5.jar
+[16:30:50] [main/DEBUG] [FML/]: Not found coremod data in BetterFoliage-2.7.1-Forge-1.16.5.jar
+[16:30:50] [main/DEBUG] [FML/]: Examining for coremod candidacy BlockArmor-1.18.1-2.6.9.jar
+[16:30:50] [main/DEBUG] [FML/]: Not found coremod data in BlockArmor-1.18.1-2.6.9.jar
+[16:30:50] [main/DEBUG] [FML/]: Examining for coremod candidacy dynamicsurroundings-neoforge-1.21.1-0.4.1.jar
+[16:30:50] [main/DEBUG] [FML/]: Not found coremod data in dynamicsurroundings-neoforge-1.21.1-0.4.1.jar
+[16:30:50] [main/DEBUG] [FML/]: Examining for coremod candidacy EnderCompass-1.8.X.jar
+[16:30:50] [main/DEBUG] [FML/]: Not found coremod data in EnderCompass-1.8.X.jar
+[16:30:50] [main/DEBUG] [FML/]: Examining for coremod candidacy endores-1.21.1-r1.jar
+[16:30:50] [main/DEBUG] [FML/]: Not found coremod data in endores-1.21.1-r1.jar
+[16:30:50] [main/DEBUG] [FML/]: Examining for coremod candidacy exoticbirds-1.20.1-1.0.0.jar
+[16:30:50] [main/DEBUG] [FML/]: Not found coremod data in exoticbirds-1.20.1-1.0.0.jar
+[16:30:50] [main/DEBUG] [FML/]: Examining for coremod candidacy extragolems-20.1.0.2.jar
+[16:30:50] [main/DEBUG] [FML/]: Not found coremod data in extragolems-20.1.0.2.jar
+[16:30:50] [main/DEBUG] [FML/]: Examining for coremod candidacy FpsReducer-mc1.8.9-1.10.3.jar
+[16:30:50] [main/DEBUG] [FML/]: Not found coremod data in FpsReducer-mc1.8.9-1.10.3.jar
+[16:30:50] [main/DEBUG] [FML/]: Examining for coremod candidacy Furnus-1.8.9.jar
+[16:30:50] [main/DEBUG] [FML/]: Not found coremod data in Furnus-1.8.9.jar
+[16:30:50] [main/DEBUG] [FML/]: Examining for coremod candidacy InventoryPets-1.8.9.jar
+[16:30:50] [main/DEBUG] [FML/]: Not found coremod data in InventoryPets-1.8.9.jar
+[16:30:50] [main/DEBUG] [FML/]: Examining for coremod candidacy ironchest-1.8.9-6.0.125.770.jar
+[16:30:50] [main/DEBUG] [FML/]: Not found coremod data in ironchest-1.8.9-6.0.125.770.jar
+[16:30:50] [main/DEBUG] [FML/]: Examining for coremod candidacy Lemon's Simple Teleporters-1.8.9.jar
+[16:30:50] [main/DEBUG] [FML/]: Not found coremod data in Lemon's Simple Teleporters-1.8.9.jar
+[16:30:50] [main/DEBUG] [FML/]: Examining for coremod candidacy MoreFurnaces-1.8.9.jar
+[16:30:50] [main/DEBUG] [FML/]: Not found coremod data in MoreFurnaces-1.8.9.jar
+[16:30:50] [main/DEBUG] [FML/]: Examining for coremod candidacy PattysMoreTools-2-2.9.1.jar
+[16:30:50] [main/DEBUG] [FML/]: Not found coremod data in PattysMoreTools-2-2.9.1.jar
+[16:30:50] [main/DEBUG] [FML/]: Examining for coremod candidacy Reptil-Mod-1.8.9.jar
+[16:30:50] [main/DEBUG] [FML/]: Not found coremod data in Reptil-Mod-1.8.9.jar
+[16:30:50] [main/DEBUG] [FML/]: Examining for coremod candidacy SimpleCorn-1.16.5-2.6.1.jar
+[16:30:50] [main/DEBUG] [FML/]: Not found coremod data in SimpleCorn-1.16.5-2.6.1.jar
+[16:30:50] [main/DEBUG] [FML/]: Examining for coremod candidacy SimpleOres-1.8.9.jar
+[16:30:50] [main/DEBUG] [FML/]: Not found coremod data in SimpleOres-1.8.9.jar
+[16:30:50] [main/DEBUG] [FML/]: Examining for coremod candidacy SophisticatedWolves-1.8.9.jar
+[16:30:50] [main/DEBUG] [FML/]: Not found coremod data in SophisticatedWolves-1.8.9.jar
+[16:30:50] [main/DEBUG] [FML/]: Examining for coremod candidacy vanillafoodpantry-mc1.18.2-7.0.jar
+[16:30:50] [main/DEBUG] [FML/]: Not found coremod data in vanillafoodpantry-mc1.18.2-7.0.jar
+[16:30:50] [main/DEBUG] [FML/]: Examining for coremod candidacy weather2-1.8.9-2.3.11.jar
+[16:30:50] [main/DEBUG] [FML/]: Not found coremod data in weather2-1.8.9-2.3.11.jar
+[16:30:50] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:30:50] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[16:30:50] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:30:50] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:30:50] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:30:50] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin} class transformers
+[16:30:50] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[16:30:50] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[16:30:50] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[16:30:50] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[16:30:50] [main/DEBUG] [FML/]: Injection complete
+[16:30:50] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin}
+[16:30:50] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[16:30:50] [main/DEBUG] [FML/]: Read 825 binary patches
+[16:30:50] [main/DEBUG] [FML/]: Loading deobfuscation resource /deobfuscation_data-1.8.9.lzma with 27891 records
+[16:30:51] [main/ERROR] [FML/]: FML appears to be missing any signature data. This is not a good thing
+[16:30:51] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[16:30:51] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:30:51] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+[16:30:51] [main/DEBUG] [FML/]: Injection complete
+[16:30:51] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[16:30:51] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[16:30:51] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[16:30:51] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[16:30:51] [main/DEBUG] [FML/]: Loaded 165 rules from AccessTransformer config file forge_at.cfg
+[16:30:51] [main/DEBUG] [FML/]: Loaded 4 rules from AccessTransformer mod jar file /workspaces/BANEO-/servidor_minecraft/mods/SophisticatedWolves-1.8.9.jar!META-INF/SophisticatedWolves_at.cfg
+
+[16:30:51] [main/DEBUG] [FML/]: Validating minecraft
+[16:30:51] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[16:30:51] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[16:30:51] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[16:30:51] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[16:30:54] [Server thread/INFO] [FML/]: MinecraftForge v11.15.1.2318 Initialized
+[16:30:55] [Server thread/INFO] [FML/]: Replaced 229 ore recipies
+[16:30:55] [Server thread/DEBUG] [FML/]: File /workspaces/BANEO-/servidor_minecraft/config/injectedDependencies.json not found. No dependencies injected
+[16:30:55] [Server thread/DEBUG] [FML/]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer]
+[16:30:55] [Server thread/DEBUG] [FML/]: Attempting to load mods contained in the minecraft jar file and associated classes
+[16:30:55] [Server thread/DEBUG] [FML/]: Minecraft is a file at /workspaces/BANEO-/servidor_minecraft/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar, loading
+[16:30:55] [Server thread/DEBUG] [FML/]: Minecraft jar mods loaded successfully
+[16:30:55] [Server thread/INFO] [FML/]: Found 0 mods from the command line. Injecting into mod discoverer
+[16:30:55] [Server thread/INFO] [FML/]: Searching /workspaces/BANEO-/servidor_minecraft/mods for mods
+[16:30:55] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file ArchitectureCraft-1.7.1-mc1.8.9.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file armorplus-1.20.1-20.0.2 (1).jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file armorplus-1.20.1-20.0.2.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file BetterFoliage-2.7.1-Forge-1.16.5.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file BlockArmor-1.18.1-2.6.9.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file dynamicsurroundings-neoforge-1.21.1-0.4.1.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file EnderCompass-1.8.X.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file endores-1.21.1-r1.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file exoticbirds-1.20.1-1.0.0.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file extragolems-20.1.0.2.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file FpsReducer-mc1.8.9-1.10.3.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Furnus-1.8.9.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file InventoryPets-1.8.9.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file ironchest-1.8.9-6.0.125.770.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Lemon's Simple Teleporters-1.8.9.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file MoreFurnaces-1.8.9.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file PattysMoreTools-2-2.9.1.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file Reptil-Mod-1.8.9.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file SimpleCorn-1.16.5-2.6.1.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file SimpleOres-1.8.9.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file SophisticatedWolves-1.8.9.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file vanillafoodpantry-mc1.18.2-7.0.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Found a candidate zip or jar file weather2-1.8.9-2.3.11.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file forge-1.8.9-11.15.1.2318-1.8.9-universal.jar for potential mods
+[16:30:55] [Server thread/DEBUG] [FML/]: The mod container forge-1.8.9-11.15.1.2318-1.8.9-universal.jar appears to be missing an mcmod.info file
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file ArchitectureCraft-1.7.1-mc1.8.9.jar for potential mods
+[16:30:55] [Server thread/TRACE] [FML/]: Located mcmod.info file in file ArchitectureCraft-1.7.1-mc1.8.9.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (gcewing.architecture.ArchitectureCraft) - loading
+[16:30:55] [Server thread/TRACE] [ArchitectureCraft/]: Parsed dependency info : [] [] []
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file armorplus-1.20.1-20.0.2 (1).jar for potential mods
+[16:30:55] [Server thread/DEBUG] [FML/]: The mod container armorplus-1.20.1-20.0.2 (1).jar appears to be missing an mcmod.info file
+[16:30:55] [Server thread/ERROR] [FML/]: Unable to read a class file correctly
+java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) [ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[16:30:55] [Server thread/ERROR] [FML/]: There was a problem reading the entry com/sofodev/armorplus/ArmorPlus.class in the jar /workspaces/BANEO-/servidor_minecraft/mods/armorplus-1.20.1-20.0.2 (1).jar - probably a corrupt zip
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:58) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) ~[ASMModParser.class:?]
+	... 11 more
+[16:30:55] [Server thread/WARN] [FML/]: Zip file armorplus-1.20.1-20.0.2 (1).jar failed to read properly, it will be ignored
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:58) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) ~[ASMModParser.class:?]
+	... 11 more
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file armorplus-1.20.1-20.0.2.jar for potential mods
+[16:30:55] [Server thread/DEBUG] [FML/]: The mod container armorplus-1.20.1-20.0.2.jar appears to be missing an mcmod.info file
+[16:30:55] [Server thread/ERROR] [FML/]: Unable to read a class file correctly
+java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) [ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[16:30:55] [Server thread/ERROR] [FML/]: There was a problem reading the entry com/sofodev/armorplus/ArmorPlus.class in the jar /workspaces/BANEO-/servidor_minecraft/mods/armorplus-1.20.1-20.0.2.jar - probably a corrupt zip
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:58) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) ~[ASMModParser.class:?]
+	... 11 more
+[16:30:55] [Server thread/WARN] [FML/]: Zip file armorplus-1.20.1-20.0.2.jar failed to read properly, it will be ignored
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:58) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) ~[ASMModParser.class:?]
+	... 11 more
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file BetterFoliage-2.7.1-Forge-1.16.5.jar for potential mods
+[16:30:55] [Server thread/TRACE] [FML/]: Located mcmod.info file in file BetterFoliage-2.7.1-Forge-1.16.5.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mods.betterfoliage.BetterFoliageMod) - loading
+[16:30:55] [Server thread/TRACE] [net.minecraftforge.fml.relauncher.FMLRelaunchLog/]: Parsed dependency info : [] [] []
+[16:30:55] [Server thread/INFO] [net.minecraftforge.fml.relauncher.FMLRelaunchLog/]: Mod null is missing the required element 'name'. Substituting null
+[16:30:55] [Server thread/DEBUG] [net.minecraftforge.fml.relauncher.FMLRelaunchLog/]: Attempting to load the file version.properties from BetterFoliage-2.7.1-Forge-1.16.5.jar to locate a version number for null
+[16:30:55] [Server thread/WARN] [net.minecraftforge.fml.relauncher.FMLRelaunchLog/]: Mod null is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file BlockArmor-1.18.1-2.6.9.jar for potential mods
+[16:30:55] [Server thread/DEBUG] [FML/]: The mod container BlockArmor-1.18.1-2.6.9.jar appears to be missing an mcmod.info file
+[16:30:55] [Server thread/ERROR] [FML/]: Unable to read a class file correctly
+java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) [ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[16:30:55] [Server thread/ERROR] [FML/]: There was a problem reading the entry twopiradians/blockArmor/client/ClientProxy$RegistrationHandler.class in the jar /workspaces/BANEO-/servidor_minecraft/mods/BlockArmor-1.18.1-2.6.9.jar - probably a corrupt zip
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:58) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) ~[ASMModParser.class:?]
+	... 11 more
+[16:30:55] [Server thread/WARN] [FML/]: Zip file BlockArmor-1.18.1-2.6.9.jar failed to read properly, it will be ignored
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:58) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) ~[ASMModParser.class:?]
+	... 11 more
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file dynamicsurroundings-neoforge-1.21.1-0.4.1.jar for potential mods
+[16:30:55] [Server thread/DEBUG] [FML/]: The mod container dynamicsurroundings-neoforge-1.21.1-0.4.1.jar appears to be missing an mcmod.info file
+[16:30:55] [Server thread/ERROR] [FML/]: Unable to read a class file correctly
+java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) [ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[16:30:55] [Server thread/ERROR] [FML/]: There was a problem reading the entry org/orecruncher/dsurround/Client.class in the jar /workspaces/BANEO-/servidor_minecraft/mods/dynamicsurroundings-neoforge-1.21.1-0.4.1.jar - probably a corrupt zip
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:58) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) ~[ASMModParser.class:?]
+	... 11 more
+[16:30:55] [Server thread/WARN] [FML/]: Zip file dynamicsurroundings-neoforge-1.21.1-0.4.1.jar failed to read properly, it will be ignored
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:58) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) ~[ASMModParser.class:?]
+	... 11 more
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file EnderCompass-1.8.X.jar for potential mods
+[16:30:55] [Server thread/TRACE] [FML/]: Located mcmod.info file in file EnderCompass-1.8.X.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.outlook.siribby.endercompass.EnderCompassMod) - loading
+[16:30:55] [Server thread/TRACE] [endercompass/]: Parsed dependency info : [] [] []
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file endores-1.21.1-r1.jar for potential mods
+[16:30:55] [Server thread/DEBUG] [FML/]: The mod container endores-1.21.1-r1.jar appears to be missing an mcmod.info file
+[16:30:55] [Server thread/ERROR] [FML/]: Unable to read a class file correctly
+java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) [ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[16:30:55] [Server thread/ERROR] [FML/]: There was a problem reading the entry com/rowan662/endores/BlockInit.class in the jar /workspaces/BANEO-/servidor_minecraft/mods/endores-1.21.1-r1.jar - probably a corrupt zip
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:58) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) ~[ASMModParser.class:?]
+	... 11 more
+[16:30:55] [Server thread/WARN] [FML/]: Zip file endores-1.21.1-r1.jar failed to read properly, it will be ignored
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:58) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) ~[ASMModParser.class:?]
+	... 11 more
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file exoticbirds-1.20.1-1.0.0.jar for potential mods
+[16:30:55] [Server thread/DEBUG] [FML/]: The mod container exoticbirds-1.20.1-1.0.0.jar appears to be missing an mcmod.info file
+[16:30:55] [Server thread/ERROR] [FML/]: Unable to read a class file correctly
+java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) [ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[16:30:55] [Server thread/ERROR] [FML/]: There was a problem reading the entry net/pavocado/exoticbirds/ExoticBirdsMod.class in the jar /workspaces/BANEO-/servidor_minecraft/mods/exoticbirds-1.20.1-1.0.0.jar - probably a corrupt zip
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:58) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) ~[ASMModParser.class:?]
+	... 11 more
+[16:30:55] [Server thread/WARN] [FML/]: Zip file exoticbirds-1.20.1-1.0.0.jar failed to read properly, it will be ignored
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:58) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) ~[ASMModParser.class:?]
+	... 11 more
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file extragolems-20.1.0.2.jar for potential mods
+[16:30:55] [Server thread/DEBUG] [FML/]: The mod container extragolems-20.1.0.2.jar appears to be missing an mcmod.info file
+[16:30:55] [Server thread/ERROR] [FML/]: Unable to read a class file correctly
+java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) [ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[16:30:55] [Server thread/ERROR] [FML/]: There was a problem reading the entry com/mcmoddev/golems/EGConfig.class in the jar /workspaces/BANEO-/servidor_minecraft/mods/extragolems-20.1.0.2.jar - probably a corrupt zip
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:58) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) ~[ASMModParser.class:?]
+	... 11 more
+[16:30:55] [Server thread/WARN] [FML/]: Zip file extragolems-20.1.0.2.jar failed to read properly, it will be ignored
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:58) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) ~[ASMModParser.class:?]
+	... 11 more
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file FpsReducer-mc1.8.9-1.10.3.jar for potential mods
+[16:30:55] [Server thread/TRACE] [FML/]: Located mcmod.info file in file FpsReducer-mc1.8.9-1.10.3.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Identified a class bre.fpsreducer.mod_FpsReducer following modloader naming convention but not directly a BaseMod or currently seen subclass
+[16:30:55] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (bre.fpsreducer.mod_FpsReducer) - loading
+[16:30:55] [Server thread/INFO] [FML/]: Disabling mod FpsReducer it is client side only.
+[16:30:55] [Server thread/DEBUG] [FML/]: Skipping mod bre.fpsreducer.mod_FpsReducer, container opted to not load.
+[16:30:55] [Server thread/INFO] [FML/]: Attempting to reparse the mod container FpsReducer-mc1.8.9-1.10.3.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file FpsReducer-mc1.8.9-1.10.3.jar for potential mods
+[16:30:55] [Server thread/TRACE] [FML/]: Located mcmod.info file in file FpsReducer-mc1.8.9-1.10.3.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Identified a class bre.fpsreducer.mod_FpsReducer following modloader naming convention but not directly a BaseMod or currently seen subclass
+[16:30:55] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (bre.fpsreducer.mod_FpsReducer) - loading
+[16:30:55] [Server thread/INFO] [FML/]: Disabling mod FpsReducer it is client side only.
+[16:30:55] [Server thread/DEBUG] [FML/]: Skipping mod bre.fpsreducer.mod_FpsReducer, container opted to not load.
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file Furnus-1.8.9.jar for potential mods
+[16:30:55] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Furnus-1.8.9.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mrriegel.furnus.Furnus) - loading
+[16:30:55] [Server thread/TRACE] [furnus/]: Parsed dependency info : [] [] []
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file InventoryPets-1.8.9.jar for potential mods
+[16:30:55] [Server thread/TRACE] [FML/]: Located mcmod.info file in file InventoryPets-1.8.9.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.inventorypets.InventoryPets) - loading
+[16:30:55] [Server thread/TRACE] [InventoryPets/]: Parsed dependency info : [] [] []
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file ironchest-1.8.9-6.0.125.770.jar for potential mods
+[16:30:55] [Server thread/TRACE] [FML/]: Located mcmod.info file in file ironchest-1.8.9-6.0.125.770.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (cpw.mods.ironchest.IronChest) - loading
+[16:30:55] [Server thread/TRACE] [IronChest/]: Parsed dependency info : [Forge@[11.15.0,12.0]] [Forge@[11.15.0,12.0]] []
+[16:30:55] [Server thread/DEBUG] [IronChest/]: Attempting to load the file version.properties from ironchest-1.8.9-6.0.125.770.jar to locate a version number for IronChest
+[16:30:55] [Server thread/DEBUG] [IronChest/]: Found version 6.0.125.770 for mod IronChest in version.properties, using
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file Lemon's Simple Teleporters-1.8.9.jar for potential mods
+[16:30:55] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Lemon's Simple Teleporters-1.8.9.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (teleporters.Teleporters) - loading
+[16:30:55] [Server thread/TRACE] [lteleporters/]: Using mcmod dependency info : [Forge] [] []
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file MoreFurnaces-1.8.9.jar for potential mods
+[16:30:55] [Server thread/TRACE] [FML/]: Located mcmod.info file in file MoreFurnaces-1.8.9.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (cubex2.mods.morefurnaces.MoreFurnaces) - loading
+[16:30:55] [Server thread/TRACE] [MoreFurnaces/]: Parsed dependency info : [] [] []
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file PattysMoreTools-2-2.9.1.jar for potential mods
+[16:30:55] [Server thread/DEBUG] [FML/]: The mod container PattysMoreTools-2-2.9.1.jar appears to be missing an mcmod.info file
+[16:30:55] [Server thread/ERROR] [FML/]: Unable to read a class file correctly
+java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) [ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[16:30:55] [Server thread/ERROR] [FML/]: There was a problem reading the entry com/tg/pattysmoretools/PattysMoreTools$ClientModEvents.class in the jar /workspaces/BANEO-/servidor_minecraft/mods/PattysMoreTools-2-2.9.1.jar - probably a corrupt zip
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:58) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) ~[ASMModParser.class:?]
+	... 11 more
+[16:30:55] [Server thread/WARN] [FML/]: Zip file PattysMoreTools-2-2.9.1.jar failed to read properly, it will be ignored
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:58) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) ~[ASMModParser.class:?]
+	... 11 more
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file Reptil-Mod-1.8.9.jar for potential mods
+[16:30:55] [Server thread/TRACE] [FML/]: Located mcmod.info file in file Reptil-Mod-1.8.9.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.reptiles.common.Reptiles) - loading
+[16:30:55] [Server thread/TRACE] [reptilemod/]: Parsed dependency info : [] [] []
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file SimpleCorn-1.16.5-2.6.1.jar for potential mods
+[16:30:55] [Server thread/DEBUG] [FML/]: The mod container SimpleCorn-1.16.5-2.6.1.jar appears to be missing an mcmod.info file
+[16:30:55] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (panda.corn.SimpleCorn) - loading
+[16:30:55] [Server thread/TRACE] [net.minecraftforge.fml.relauncher.FMLRelaunchLog/]: Parsed dependency info : [] [] []
+[16:30:55] [Server thread/INFO] [net.minecraftforge.fml.relauncher.FMLRelaunchLog/]: Mod null is missing the required element 'name'. Substituting null
+[16:30:55] [Server thread/DEBUG] [net.minecraftforge.fml.relauncher.FMLRelaunchLog/]: Attempting to load the file version.properties from SimpleCorn-1.16.5-2.6.1.jar to locate a version number for null
+[16:30:55] [Server thread/WARN] [net.minecraftforge.fml.relauncher.FMLRelaunchLog/]: Mod null is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file SimpleOres-1.8.9.jar for potential mods
+[16:30:55] [Server thread/TRACE] [FML/]: Located mcmod.info file in file SimpleOres-1.8.9.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (alexndr.plugins.SimpleOres.SimpleOres) - loading
+[16:30:55] [Server thread/TRACE] [simpleores/]: Parsed dependency info : [simplecore] [simplecore] []
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file SophisticatedWolves-1.8.9.jar for potential mods
+[16:30:55] [Server thread/TRACE] [FML/]: Located mcmod.info file in file SophisticatedWolves-1.8.9.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (sophisticated_wolves.SophisticatedWolvesMod) - loading
+[16:30:55] [Server thread/TRACE] [SophisticatedWolves/]: Parsed dependency info : [] [] []
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file vanillafoodpantry-mc1.18.2-7.0.jar for potential mods
+[16:30:55] [Server thread/DEBUG] [FML/]: The mod container vanillafoodpantry-mc1.18.2-7.0.jar appears to be missing an mcmod.info file
+[16:30:55] [Server thread/ERROR] [FML/]: Unable to read a class file correctly
+java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) [ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[16:30:55] [Server thread/ERROR] [FML/]: There was a problem reading the entry org/jwaresoftware/mcmods/vfp/agents/AgentsBuildHelper.class in the jar /workspaces/BANEO-/servidor_minecraft/mods/vanillafoodpantry-mc1.18.2-7.0.jar - probably a corrupt zip
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:58) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) ~[ASMModParser.class:?]
+	... 11 more
+[16:30:55] [Server thread/WARN] [FML/]: Zip file vanillafoodpantry-mc1.18.2-7.0.jar failed to read properly, it will be ignored
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:58) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:69) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:134) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:363) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112) [ko.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source) ~[asm-all-5.0.3.jar:5.0.3]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:52) ~[ASMModParser.class:?]
+	... 11 more
+[16:30:55] [Server thread/DEBUG] [FML/]: Examining file weather2-1.8.9-2.3.11.jar for potential mods
+[16:30:55] [Server thread/TRACE] [FML/]: Located mcmod.info file in file weather2-1.8.9-2.3.11.jar
+[16:30:55] [Server thread/DEBUG] [FML/]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (weather2.Weather) - loading
+[16:30:55] [Server thread/TRACE] [weather2/]: Parsed dependency info : [] [] []
+[16:30:55] [Server thread/WARN] [FML/]: Can't revert to frozen GameData state without freezing first.
+[16:30:56] [Server thread/INFO] [FML/]: The state engine was in incorrect state CONSTRUCTING and forced into state SERVER_STOPPED. Errors may have been discarded.

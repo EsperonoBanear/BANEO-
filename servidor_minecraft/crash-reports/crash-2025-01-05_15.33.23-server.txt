@@ -1,0 +1,73 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  XaeroWorldMapPlugin (XaerosWorldMap_1.14.1.31_Forge_1.8.9.jar)
+Contact their authors BEFORE contacting forge
+
+// Don't be sad. I'll do better next time, I promise!
+
+Time: 1/5/25 3:33 PM
+Description: Exception in server tick loop
+
+java.lang.NullPointerException: Exception in server tick loop
+	at net.minecraftforge.fml.common.Loader$ModIdComparator.compare(Loader.java:375)
+	at net.minecraftforge.fml.common.Loader$ModIdComparator.compare(Loader.java:370)
+	at java.util.TreeMap.getEntryUsingComparator(TreeMap.java:376)
+	at java.util.TreeMap.getEntry(TreeMap.java:345)
+	at java.util.TreeMap.get(TreeMap.java:278)
+	at com.google.common.collect.AbstractMapBasedMultimap.put(AbstractMapBasedMultimap.java:192)
+	at com.google.common.collect.AbstractSetMultimap.put(AbstractSetMultimap.java:121)
+	at com.google.common.collect.TreeMultimap.put(TreeMultimap.java:78)
+	at net.minecraftforge.fml.common.Loader.identifyDuplicates(Loader.java:386)
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:364)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:488)
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:87)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:320)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:112)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:441)
+	at java.lang.Thread.run(Thread.java:750)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.8.9
+	Operating System: Linux (amd64) version 6.5.0-1025-azure
+	Java Version: 1.8.0_432, Private Build
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Private Build
+	Memory: 1549743040 bytes (1477 MB) / 2058354688 bytes (1963 MB) up to 9544663040 bytes (9102 MB)
+	JVM Flags: 2 total; -Xms2G -Xmx10G
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.19 Powered by Forge 11.15.1.2318 18 mods loaded, 0 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+		mcp{9.19} [Minecraft Coder Pack] (minecraft.jar) 
+		FML{8.0.99.99} [Forge Mod Loader] (forge-1.8.9-11.15.1.2318-1.8.9-universal.jar) 
+		Forge{11.15.1.2318} [Minecraft Forge] (forge-1.8.9-11.15.1.2318-1.8.9-universal.jar) 
+		xaeroworldmap_core{1.8.9-1.0} [XaeroWorldMapCore] (minecraft.jar) 
+		ArchitectureCraft{1.7.1} [ArchitectureCraft] (ArchitectureCraft-1.7.1-mc1.8.9.jar) 
+		null{1.0} [null] (BetterFoliage-2.7.1-Forge-1.16.5.jar) 
+		endercompass{1.2.2.1} [Ender Compass] (EnderCompass-1.8.X.jar) 
+		furnus{1.74} [Furnus] (Furnus-1.8.9.jar) 
+		InventoryPets{1.4.9} [Inventory Pets] (InventoryPets-1.8.9.jar) 
+		IronChest{6.0.125.770} [Iron Chest] (ironchest-1.8.9-6.0.125.770.jar) 
+		lteleporters{1.0.0} [Lemon's Simple Teleporters] (Lemon's Simple Teleporters-1.8.9.jar) 
+		MoreFurnaces{1.5.2} [More Furnaces] (MoreFurnaces-1.8.9.jar) 
+		reptilemod{3.1.0} [Reptile Mod] (Reptil-Mod-1.8.9.jar) 
+		null{1.0} [null] (SimpleCorn-1.16.5-2.6.1.jar) 
+		simpleores{1.7.4.2} [SimpleOres 2] (SimpleOres-1.8.9.jar) 
+		SophisticatedWolves{3.6.1} [SophisticatedWolves] (SophisticatedWolves-1.8.9.jar) 
+		weather2{v2.3.11} [Localized Weather & Storms] (weather2-1.8.9-2.3.11.jar) 
+		XaeroWorldMap{1.14.1.31} [Xaero's World Map] (XaerosWorldMap_1.14.1.31_Forge_1.8.9.jar) 
+	Loaded coremods (and transformers): 
+XaeroWorldMapPlugin (XaerosWorldMap_1.14.1.31_Forge_1.8.9.jar)
+  xaero.map.core.transformer.ChunkTransformer
+  xaero.map.core.transformer.NetHandlerPlayClientTransformer
+  xaero.map.core.transformer.EntityPlayerTransformer
+  xaero.map.core.transformer.AbstractClientPlayerTransformer
+  xaero.map.core.transformer.WorldClientTransformer
+  xaero.map.core.transformer.PlayerListTransformer
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
