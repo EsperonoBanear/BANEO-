@@ -1653,3 +1653,34 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [22:41:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [22:42:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
 [22:43:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:44:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:44:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:45:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:46:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:47:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:47:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:48:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:49:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:50:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:50:16] [Netty Epoll Server IO #3/TRACE] [FML/]: Handshake channel activating
+[22:50:16] [Netty Epoll Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[22:50:16] [Netty Epoll Server IO #3/DEBUG] [FML/]:   Next: HELLO
+[22:50:17] [Netty Epoll Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:50:17] [Netty Epoll Server IO #3/INFO] [FML/]: Client protocol version 2
+[22:50:17] [Netty Epoll Server IO #3/DEBUG] [FML/]:   Next: HELLO
+[22:50:17] [Netty Epoll Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: $ModList:18 mods->FMLHandshakeServerState$2:HELLO
+[22:50:17] [Netty Epoll Server IO #3/INFO] [FML/]: Client attempting to join with 18 mods : InventoryPets@1.4.9,FML@8.0.99.99,Forge@11.15.1.2318,IronChest@6.0.125.770,MoreFurnaces@1.5.2,xaerominimap_core@1.8.9-1.0,lteleporters@1.0.0,SophisticatedWolves@3.6.1,JEI@2.28.18.187,reptilemod@3.1.0,endercompass@1.2.2.1,ArchitectureCraft@1.7.1,XaeroWorldMap@1.14.1.31,xaeroworldmap_core@1.8.9-1.0,XaeroMinimap@21.10.41,mcp@9.19,furnus@1.74,FpsReducer@mc1.8.9-1.10.3
+[22:50:17] [Netty Epoll Server IO #3/DEBUG] [FML/]:   Next: WAITINGCACK
+[22:50:17] [Netty Epoll Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[22:50:17] [Netty Epoll Server IO #3/DEBUG] [FML/]:   Next: COMPLETE
+[22:50:17] [Netty Epoll Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[22:50:17] [Netty Epoll Server IO #3/DEBUG] [FML/]:   Next: DONE
+[22:50:17] [Netty Epoll Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[22:50:17] [Netty Epoll Server IO #3/DEBUG] [FML/]:   Next: DONE
+[22:50:17] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
+[22:50:17] [Netty Epoll Server IO #3/DEBUG] [FML/]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[22:50:17] [Netty Epoll Server IO #3/DEBUG] [FML/]:   Next: DONE
+[22:50:55] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:51:40] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:52:25] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[22:53:10] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
